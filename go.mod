@@ -1,0 +1,3 @@
+module roadToGo
+
+go 1.23.3
